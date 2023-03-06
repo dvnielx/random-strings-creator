@@ -11,7 +11,7 @@ npm install -g random-strings-creator
 # Usage
 
 ```bash
- random-str-msg
+ npm exec random-strings-creator 
 ```
 
 # Contributing
