@@ -1,0 +1,24 @@
+{
+  "name": "random-strings-creator",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvnielx/random-strings-creator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvnielx/random-strings-creator/issues"
+  },
+  "homepage": "https://github.com/dvnielx/random-strings-creator#readme",
+  "bin": {
+    "random-strings-creator": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
